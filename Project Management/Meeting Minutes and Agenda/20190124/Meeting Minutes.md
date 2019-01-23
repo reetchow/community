@@ -27,7 +27,7 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Planning:
     - ZSS (JP)
-        - Code review underway, waiting for IBM's approval re Intellectual Property
+        -
     - Tomcat (Joe/Steve)
         -
 5. Squad Status:
@@ -35,7 +35,10 @@ Agenda Items
       -
 
     - Core/Web/Editor (JPL/Reet)
-      -
+      - ZIS install script is written and being tested now
+      - Researching TopSecret and ACF2 integrations
+      - Adding an alert for session expiry
+      - Fixing QA issues with file transfer application download feature
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
